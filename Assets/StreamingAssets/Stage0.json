@@ -1,0 +1,32 @@
+{
+  "stageId": 0,
+  "stageEnemyList": [
+    {
+      "id": 1,
+      "level": 0,
+      "pos": {
+        "x": 0.0,
+        "y": 10.2
+      },
+      "yRotation": 180.0
+    },
+    {
+      "id": 1,
+      "level": 0,
+      "pos": {
+        "x": -12.0,
+        "y": 6.0
+      },
+      "yRotation": 180.0
+    },
+    {
+      "id": 1,
+      "level": 0,
+      "pos": {
+        "x": 12.0,
+        "y": 6.0
+      },
+      "yRotation": 180.0
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "stageId": 1,
+  "stageEnemyList": [
+    {
+      "id": 1,
+      "level": 0,
+      "pos": {
+        "x": 0.0,
+        "y": 10.2
+      },
+      "yRotation": 180.0
+    },
+    {
+      "id": 1,
+      "level": 0,
+      "pos": {
+        "x": -6.0,
+        "y": 6.0
+      },
+      "yRotation": 180.0
+    },
+    {
+      "id": 1,
+      "level": 0,
+      "pos": {
+        "x": 6.0,
+        "y": 6.0
+      },
+      "yRotation": 180.0
+    },
+    {
+      "id": 1,
+      "level": 0,
+      "pos": {
+        "x": 3.0,
+        "y": 9.0
+      },
+      "yRotation": 180.0
+    },
+    {
+      "id": 1,
+      "level": 0,
+      "pos": {
+        "x": -3.0,
+        "y": 9.0
+      },
+      "yRotation": 180.0
+    }
+  ]
+}

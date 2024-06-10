@@ -1,0 +1,17 @@
+{
+  "name": null,
+  "level": 1,
+  "exp": 0,
+  "crtStage": 3,
+  "skillList": null,
+  "monsterList": null,
+  "HP": 50,
+  "atkPhy": 1,
+  "atkMag": 1,
+  "defPhy": 0,
+  "defMag": 0,
+  "criRate": 10.0,
+  "criPer": 120.0,
+  "spdMov": 6.0,
+  "spdAtk": 1.0
+}
